@@ -1,3 +1,52 @@
+<h1 align="center"> 
+NLW Agents </h1>
+
+<p align="center">
+Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
+</p>
+
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
+</p>
+
+<p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+</p>
+
+<br>
+
+<p align="center">
+  <img alt="projeto DevLinks" src=".github/preview.jpg" width="100%">
+</p>
+
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- HTML e CSS para a estrutura e o design da interface
+- JavaScript para a lógica e integração com a API Gemini
+- Git e Github para versionamento e hospedagem do código
+
+## 💻 Projeto
+
+O projeto Meta-Buddy é um assistente inteligente de jogos que responde perguntas sobre builds, estratégias e metas atualizadas usando IA integrada com a API Gemini.
+
+- [Acesse o projeto finalizado, online](https://jvictorveloso.github.io/Projeto-Meta-Buddy/)
+
+
+## :memo: Licença
+
+Esse projeto está sob a licença MIT.
+
+---
+
+Feito por Victor Veloso
+
+
+
+
 # HTML
 
 - HypertText
@@ -7,7 +56,7 @@
 - Markup
   - Marcação
   - Tags: <a> Link </a>
-  - Atributos: <a href="https://rocketseat.com.br">
+  - Atributos
   - Globais: id, class, ...
 - Language
   - Linguagem
